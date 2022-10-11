@@ -19,7 +19,7 @@ MVC,MVVM,MVW 등과 같은 여러 구조가 지닌 공통점은 모델(Model)과
   
 다음과 같은 JSON 객체 값을 사용하는 뷰가 있습니다.
 
-  
+ 
 
 ```javascript
 {
